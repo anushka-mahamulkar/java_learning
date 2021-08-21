@@ -1,10 +1,7 @@
-/**
- * 
- */
 package edu.anushka.java.core.collections;
 
 /**
- * @author MyGuest
+ * @author Anushka Mahamulkar
  *
  */
 public class PrimeNumber {
