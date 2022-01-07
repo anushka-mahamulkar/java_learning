@@ -1,0 +1,12 @@
+What are variables:
+A variable is the name of a reserved area allocated in memory. In other words, it is a name of the memory location.
+
+What is a wrapper class:
+uses all 8 basic data types. int can use integer and by doing that it gives us ways to perform opeation on an int.
+
+Size of byte:     8 bits
+        short:    16 bits
+		int:      32 bits
+		long:     64 bits
+		
+casting : Casting means to treat or convert a number from one type to another.
